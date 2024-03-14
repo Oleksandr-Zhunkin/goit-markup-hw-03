@@ -1,0 +1,124 @@
+body {
+  background-color: #fff;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+}
+a {
+  text-decoration: none;
+  color: #2e2f42;
+}
+ul {
+  list-style-type: none;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #4d5ae5;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+}
+.logo-web-nav {
+  color: #2e2f42;
+}
+.navigation {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.navigation .navigation-link:hover,
+.navigation .navigation-link:focus {
+  line-height: 24px;
+  color: #404bbf;
+}
+.navigation .navigation-studio:active {
+  line-height: 24px;
+  color: #404bbf;
+}
+.header-adress {
+  font-style: normal;
+}
+.contacts-list {
+  color: #434455;
+}
+.contacts {
+  font-size: 16px;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+}
+.contacts li a:hover,
+.contacts li a:focus {
+  color: #404bbf;
+}
+.section-main {
+  background-color: #2e2f42;
+}
+.main-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+.main-button {
+  font-family: "Roboto", sans-serif;
+  background-color: #4d5ae5;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  font-weight: 500;
+  font-size: 16px;
+  cursor: pointer;
+}
+.main-button:hover,
+.main-button:focus {
+  background: #404bbf;
+}
+.title-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.title-list-description {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.section-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-align: center;
+  text-transform: capitalize;
+}
+.section-title-list {
+  background-color: #fff;
+}
+.section-team {
+  background-color: #f4f4fd;
+}
+.footer-descr {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+.footer-logo-footer {
+  background-color: #2e2f42;
+}
+.section-team li {
+  text-align: center;
+}
+.logo-footer {
+  background-color: #2e2f42;
+}
+.logo-web-footer {
+  color: #f4f4fd;
+}
