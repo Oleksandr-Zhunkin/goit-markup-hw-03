@@ -72,7 +72,7 @@ img {
 .navigation .navigation-link:focus {
   color: #404bbf;
 }
-.navigation-list {
+.navigation-link {
   display: block;
   padding: 24px 0;
 }
@@ -189,7 +189,7 @@ img {
   background-color: #fff;
 }
 .visually-hidden {
-  display: none;
+  visibility: hidden;
 }
 .advantages {
   display: flex;
@@ -224,7 +224,7 @@ img {
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
 }
-.footer-block .container {
+.footer-block {
   display: block;
   padding-top: 100px;
   padding-bottom: 100px;
