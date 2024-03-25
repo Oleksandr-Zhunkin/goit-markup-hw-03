@@ -38,7 +38,6 @@ img {
 }
 .logo {
   display: block;
-  margin-right: 76px;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   text-transform: uppercase;
@@ -62,6 +61,7 @@ img {
   display: flex;
   gap: 40px;
   align-items: center;
+  margin-left: 76px;
   padding-right: 332px;
   font-weight: 500;
   font-size: 16px;
